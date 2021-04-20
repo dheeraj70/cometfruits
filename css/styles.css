@@ -6,7 +6,7 @@ body{
 }
 .download{
   text-align: center;
-  margin: 15px auto 0 25px;
+  margin: 15px auto 0 auto;
 }
 .downbuttons{
   padding:0 2% 0 10%;
@@ -79,4 +79,27 @@ body{
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   padding: 15px 0 10px 0;
+}
+.secondappeal {
+  background-color: #51c4d3;
+}
+.downbuttons2{
+  padding:35px 10% 35px 23%;
+}
+#about{
+  text-align: center;
+}
+.aboutdis{
+  padding: 30px;
+}
+.mypic{
+  height: 150px;
+  border-radius: 100%;
+  margin-top: 20px;
+}
+.fa-instagram{
+  font-size: 2rem;
+}
+.fa-youtube {
+  font-size: 2rem;
 }
