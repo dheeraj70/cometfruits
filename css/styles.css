@@ -65,7 +65,7 @@ body{
   background-color: #D8E3E7;
 }
 .itemimg{
-  height: 100px;
+  height: 65px;
   width: auto;
   display: block;
   margin-left: auto;
@@ -79,11 +79,4 @@ body{
   font-family: 'Ubuntu', sans-serif;
   text-align: center;
   padding: 15px 0 10px 0;
-}
-.grapeimg{
-  height: 100px;
-  width: 160px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
